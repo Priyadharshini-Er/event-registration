@@ -20,8 +20,8 @@ Validate the HTML and CSS code.
 ### Step 7:
 Publish the website in the given URL.
 
-## DESIGN:
-
+## DESIGN TOOL:
+Figma
 ## PROGRAM :
 ```
 /* Home page */
